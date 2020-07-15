@@ -1,2 +1,2 @@
 # minimusic
-##a wx program!
+a wx program!
